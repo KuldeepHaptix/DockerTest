@@ -34,6 +34,7 @@ namespace DockerTest
             }
             else
             {
+
                 app.UseExceptionHandler("/Home/Error");
             }
 
